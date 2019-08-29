@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: c208af9d017f5904dba628f84e4cabd8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bein
+    100002: Bein_2
+    100004: Bein_3
+    100006: Bein_4
+    100008: CINEMA_4D_Editor
+    100010: Linseneffekt_Quelle
+    100012: Mond
+    100014: Mondlicht
+    100016: Physikalischer_Himmel
+    100018: Platte
+    100020: Schattenebene
+    100022: Sky_Dome
+    100024: Sky_Null
+    100026: Sonne
+    100028: Sonnenlicht
+    100030: "St\xFCtze"
+    100032: "St\xFCtze_2"
+    100034: "St\xFCtze_3"
+    100036: //RootNode
+    400000: Bein
+    400002: Bein_2
+    400004: Bein_3
+    400006: Bein_4
+    400008: CINEMA_4D_Editor
+    400010: Linseneffekt_Quelle
+    400012: Mond
+    400014: Mondlicht
+    400016: Physikalischer_Himmel
+    400018: Platte
+    400020: Schattenebene
+    400022: Sky_Dome
+    400024: Sky_Null
+    400026: Sonne
+    400028: Sonnenlicht
+    400030: "St\xFCtze"
+    400032: "St\xFCtze_2"
+    400034: "St\xFCtze_3"
+    400036: //RootNode
+    2000000: CINEMA_4D_Editor
+    2100000: Mat.1
+    2100002: Mat.1.1
+    2100004: Mat.1.2
+    2100006: Mat
+    2100008: Mat.1.5
+    2100010: Mat.5
+    2300000: Bein
+    2300002: Bein_2
+    2300004: Bein_3
+    2300006: Bein_4
+    2300008: Platte
+    2300010: "St\xFCtze"
+    2300012: "St\xFCtze_2"
+    2300014: "St\xFCtze_3"
+    3300000: Bein
+    3300002: Bein_2
+    3300004: Bein_3
+    3300006: Bein_4
+    3300008: Platte
+    3300010: "St\xFCtze"
+    3300012: "St\xFCtze_2"
+    3300014: "St\xFCtze_3"
+    4300000: "St\xFCtze"
+    4300002: "St\xFCtze_2"
+    4300004: "St\xFCtze_3"
+    4300006: Platte
+    4300008: Bein
+    4300010: Bein_2
+    4300012: Bein_3
+    4300014: Bein_4
+    10800000: Linseneffekt_Quelle
+    10800002: Mondlicht
+    10800004: Sky_Dome
+    10800006: Sonnenlicht
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
