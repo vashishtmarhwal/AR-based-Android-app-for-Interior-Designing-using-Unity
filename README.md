@@ -2,8 +2,8 @@
 Developed an application, using Vuforia Game Engine, which will help user to build a layout of the furniture in their own home. I used Lean Scripts from the AR Library provided with the Vuforia Package for Unity. 
 
 ### Tools Used
-1. Unity 
-2. Vuforia Game Engine
+1. [Unity](https://docs.unity3d.com/Manual/index.html) 
+2. [Vuforia Game Engine](https://library.vuforia.com/getting-started/overview.html)
 
 ### Lean Scripts Used
 1. LeanSelectable
