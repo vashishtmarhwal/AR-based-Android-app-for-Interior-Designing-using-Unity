@@ -15,7 +15,7 @@ Developed an application, using Vuforia Game Engine, which will help user to bui
 ![Output](https://i.ibb.co/Ld4xDmW/Screenshot-2019-08-29-at-2-48-35-PM.png)
 
 
-## Project Contributors
+### Project Contributors
 This project was done during my CSE3029 - Game Programming by a team of three people
 - [Tanay Agarwal](https://github.com/tanayagar/)
 - [Vashisht Marhwal](https://github.com/vashishtmarhwal/)
